@@ -19,3 +19,5 @@ limitations under the License.
 ## Overview
 
 This repository was developed as a live demo for the OSESM lecture at TU Wien, spring 2021.
+
+This repository has an `add()` function.
