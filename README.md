@@ -21,4 +21,4 @@ limitations under the License.
 This repository was developed as a live demo for the OSESM lecture at TU Wien, spring 2021.
 
 This repository has an `add()` function.
-This repository has an `sub()` function.
+This repository has a `subtract()` function.
