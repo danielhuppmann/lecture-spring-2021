@@ -1,3 +1,3 @@
-def add(x, y):
-    """Add two objects"""
-    return x + y
+def add(x, y, z=1):
+    """Add two (or three) objects"""
+    return x + y + z
